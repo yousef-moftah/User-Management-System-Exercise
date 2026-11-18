@@ -44,9 +44,10 @@ A desktop application built with **C#** and **Windows Forms**, developed as part
 ---
 
 ## 📸 Screenshots
-![Uploading Screenshot 2026-11-18 181739.png…]()
-<img width="1133" height="610" alt="image" src="https://github.com/user-attachments/assets/ec4d7e9e-7a01-483a-84f0-35db614f4ce5" />
-![Uploading image.png…]()
+<img width="767" height="657" alt="Screenshot 2026-11-18 181739" src="https://github.com/user-attachments/assets/506b26e0-6f21-4fdc-990b-1229a71a4a16" />
+<img width="782" height="592" alt="Screenshot 2026-11-18 181827" src="https://github.com/user-attachments/assets/1e844819-183a-4f4a-bd62-422e50c991f8" />
+<img width="1133" height="610" alt="Screenshot 2026-11-18 181928" src="https://github.com/user-attachments/assets/17d5a161-5322-4eaa-93dc-ec08dceaaed4" />
+
 
 
 ---
